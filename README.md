@@ -1,4 +1,4 @@
-Hello, I'm Orcus
+Hello, I'm Orcus.
 I'm looking to get into programming and coding.
 In the past I have used block based coding and some python, but now I am learning python to it's fullest extent!
 I am almost halfway through the course.
